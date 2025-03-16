@@ -1,0 +1,12 @@
+2025-03-08 15:51:06.278 [info] Extension host with pid 9638 started
+2025-03-08 15:51:06.403 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-03-08 15:51:06.568 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-03-08 15:51:06.569 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-03-08 15:51:07.951 [info] Eager extensions activated
+2025-03-08 15:51:07.952 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-03-08 15:51:07.953 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-03-08 15:51:07.963 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-03-08 15:52:04.805 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-03-08 15:52:04.806 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-03-08 15:52:20.696 [info] Extension host terminating: received terminate message from renderer
+2025-03-08 15:52:20.785 [info] Extension host with pid 9638 exiting with code 0

@@ -1,0 +1,17 @@
+2025-03-08 14:47:42.325 [info] 
+
+
+
+
+2025-03-08 14:47:42.325 [info] Extension host agent started.
+2025-03-08 14:47:42.913 [info] [127.0.0.1][7e868485][ManagementConnection] New connection established.
+2025-03-08 14:47:45.068 [info] [127.0.0.1][2677cb76][ExtensionHostConnection] New connection established.
+2025-03-08 14:47:46.329 [info] [127.0.0.1][2677cb76][ExtensionHostConnection] <534> Launched Extension Host Process.
+2025-03-08 15:07:54.266 [info] Getting Manifest... ritwickdey.liveserver
+2025-03-08 15:07:54.924 [info] Installing extension: ritwickdey.liveserver {"installPreReleaseVersion":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/dariov24/.vscode-server/extensions/extensions.json","external":"file:///home/dariov24/.vscode-server/extensions/extensions.json","path":"/home/dariov24/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.98.0","date":"2025-03-04T21:06:18.612Z"}}
+2025-03-08 15:08:03.045 [info] Extension signature verification result for ritwickdey.liveserver: Success. Internal Code: 0. Executed: true. Duration: 4097ms.
+2025-03-08 15:08:14.551 [info] Extracted extension to file:///home/dariov24/.vscode-server/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2025-03-08 15:08:15.280 [info] Renamed to /home/dariov24/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2025-03-08 15:08:15.307 [info] Extension installed successfully: ritwickdey.liveserver file:///home/dariov24/.vscode-server/extensions/extensions.json
+2025-03-08 15:11:38.881 [info] [127.0.0.1][7e868485][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-03-08 15:11:39.601 [info] [127.0.0.1][2677cb76][ExtensionHostConnection] <534> Extension Host Process exited with code: 0, signal: null.

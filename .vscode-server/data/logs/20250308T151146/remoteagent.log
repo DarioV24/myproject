@@ -1,0 +1,13 @@
+2025-03-08 15:11:46.515 [info] 
+
+
+
+
+2025-03-08 15:11:46.515 [info] Extension host agent started.
+2025-03-08 15:11:46.589 [info] [127.0.0.1][14a55f84][ManagementConnection] New connection established.
+2025-03-08 15:11:47.323 [info] [127.0.0.1][b68b3aa8][ExtensionHostConnection] New connection established.
+2025-03-08 15:11:47.537 [info] [127.0.0.1][b68b3aa8][ExtensionHostConnection] <3632> Launched Extension Host Process.
+2025-03-08 15:11:50.945 [error] [File Watcher] Unexpected error: Permission denied (EUNKNOWN) (path: /)
+2025-03-08 15:11:50.946 [error] [File Watcher (universal)] Permission denied
+2025-03-08 15:15:28.923 [info] [127.0.0.1][14a55f84][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-03-08 15:15:29.574 [info] [127.0.0.1][b68b3aa8][ExtensionHostConnection] <3632> Extension Host Process exited with code: 0, signal: null.

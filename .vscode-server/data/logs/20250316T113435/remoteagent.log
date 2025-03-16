@@ -1,0 +1,13 @@
+2025-03-16 11:34:36.528 [info] 
+
+
+
+
+2025-03-16 11:34:36.528 [info] Extension host agent started.
+2025-03-16 11:34:36.697 [info] [127.0.0.1][de4b94fa][ManagementConnection] New connection established.
+2025-03-16 11:34:37.750 [info] [127.0.0.1][b61df5ae][ExtensionHostConnection] New connection established.
+2025-03-16 11:34:37.779 [info] [127.0.0.1][b61df5ae][ExtensionHostConnection] <854> Launched Extension Host Process.
+2025-03-16 11:35:31.396 [info] [127.0.0.1][de4b94fa][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-03-16 11:35:31.464 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)
+2025-03-16 11:35:31.542 [info] [127.0.0.1][b61df5ae][ExtensionHostConnection] <854> Extension Host Process exited with code: 0, signal: null.
